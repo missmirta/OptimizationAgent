@@ -1,0 +1,9 @@
+pulp>=2.7
+pydantic>=2.0
+openai>=1.0
+python-dotenv>=1.0
+langgraph>=1.0
+langchain-core>=0.3
+streamlit>=1.30
+pandas>=2.0
+mcp[cli]>=1.0
